@@ -3,13 +3,12 @@
   "applications": {
     "gecko": {
       "id": "{8845E3B3-E8FB-40E2-95E9-EC40294818C4}",
-      "strict_min_version": "102.0",
-      "strict_max_version": "115.*"
+      "strict_min_version": "102.0"
     }
   },
   "name": "Quicktext",
-  "version": "5.14-SONN",
-  "author": "John Bieling",
+  "version": "5.14.1",
+  "author": "John Bieling, SONN",
   "homepage_url": "https://github.com/jobisoft/quicktext",
   "default_locale": "en-US",
   "description": "__MSG_extensionDescription__",  
