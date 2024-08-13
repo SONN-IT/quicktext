@@ -7,7 +7,7 @@
     }
   },
   "name": "Quicktext",
-  "version": "5.14.1",
+  "version": "5.16",
   "author": "John Bieling, SONN",
   "homepage_url": "https://github.com/jobisoft/quicktext",
   "default_locale": "en-US",
@@ -19,7 +19,7 @@
   },
   "compose_action": {
     "default_title": "Quicktext",
-    "default_label": "",    
+    "default_label": "",
     "default_icon": {
       "16": "chrome/skin/icon16.png",
       "24": "chrome/skin/icon24.png",
@@ -28,7 +28,7 @@
   }, 
   "browser_action": {
     "default_title": "Quicktext",
-    "default_label": "",    
+    "default_label": "",
     "default_icon": {
       "16": "chrome/skin/icon16.png",
       "24": "chrome/skin/icon24.png",
